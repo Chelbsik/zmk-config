@@ -57,7 +57,7 @@ layers:
   - {t: LOW, h: toggle}
   - ⏎
   - ENTER
-  - {t: RAI, h: toggle}
+  - RAI
   - ␣
   - ;
   - $$mdi:apple-keyboard-command$$
@@ -135,7 +135,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - Insert
   - Print Scrn
   - CMENU
@@ -179,7 +179,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
